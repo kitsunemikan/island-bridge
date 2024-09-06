@@ -1,0 +1,6 @@
+**/.ccls-cache/
+**/.cache/
+build/
+compile_commands.json
+bench*.csv
+CMakeUserPresets.json
